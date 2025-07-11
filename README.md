@@ -31,5 +31,7 @@ Result: 60
 
   
    python calculator.py
+<img width="405" height="522" alt="image" src="https://github.com/user-attachments/assets/cb94bd8f-a8f7-4bbd-bd62-7fd05d0e4e72" />
+
  
 
