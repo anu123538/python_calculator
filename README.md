@@ -31,8 +31,6 @@ Result: 60
 
   
    python calculator.py
-<img width="391" height="512" alt="image" src="https://github.com/user-attachments/assets/9562f988-c4b3-4236-bc79-41e015605045" />
-
 
  
 
